@@ -7,3 +7,5 @@ Day 1: Variables, Data types in python and Conditional Statements.
 Day 2: Basic Calculator using Conditional Statements.
 
 Day 3: List, Tuple, Set, Dictionary
+
+Day 4: For and While Loop
