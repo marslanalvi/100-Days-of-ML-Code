@@ -9,3 +9,5 @@ Day 2: Basic Calculator using Conditional Statements.
 Day 3: List, Tuple, Set, Dictionary
 
 Day 4: For and While Loop
+
+Day 5: Function Exercises
