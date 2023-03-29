@@ -15,3 +15,5 @@ Day 5: Function Exercises
 Day 6: Pandas, Exercises and Solution
 
 Day 7: OOP - Classes and Instances
+
+Day 8: OOP - Classes, Instances and Class Variables
